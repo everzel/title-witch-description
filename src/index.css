@@ -1,10 +1,10 @@
-.cdx-score__base {
+.cdx-score-t__base {
     padding: 0.5rem 0 0.5rem 0;
 }
-.cdx-score__title {
+.cdx-score-t__title {
     margin-bottom: 1rem;
 }
-.cdx-score__input_name {
+.cdx-score-t__input_name {
     margin-bottom: 0.3rem;
     font-size: 14px;
 }

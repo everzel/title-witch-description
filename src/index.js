@@ -50,14 +50,14 @@ export default class TitleWitchDescription {
    */
   get CSS() {
     return {
-      baseClass: [this.api.styles.block, 'cdx-score__base'],
+      baseClass: [this.api.styles.block, 'cdx-score-t__base'],
 
       /**
        * Tool's classes
        */
-      title: ['cdx-score__title', this.api.styles.input],
-      description: ['cdx-score__description', this.api.styles.input],
-      nameInput: [ 'cdx-score__input_name' ]
+      title: ['cdx-score-t__title', this.api.styles.input],
+      description: ['cdx-score-t__description', this.api.styles.input],
+      nameInput: [ 'cdx-score-t__input_name' ]
     };
   }
 
