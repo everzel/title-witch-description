@@ -41,7 +41,7 @@ export default class TitleWitchDescription {
   static get toolbox() {
     return {
       icon: ToolboxIcon,
-      title: this.api.i18n.t('Заголовок / Опис')
+      title: 'Заголовок / Опис'
     };
   }
 
